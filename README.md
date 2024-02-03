@@ -1,2 +1,2 @@
 # little-games
-small games i built
+Small games I build throughout my CS journey
